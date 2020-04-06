@@ -6,6 +6,8 @@ public class TestStagingDirectCommitCheck {
 		// TODO Auto-generated method stub
 		System.out.println("This is new change2");
 		System.out.println("This is new change2");
+		System.out.println("This is new change2");
+		System.out.println("This is new change2");
 	}
 
 }
